@@ -1,0 +1,15 @@
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\bin\Debug\net6.0\ConsoleHelloApp.exe
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\bin\Debug\net6.0\ConsoleHelloApp.deps.json
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\bin\Debug\net6.0\ConsoleHelloApp.runtimeconfig.json
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\bin\Debug\net6.0\ConsoleHelloApp.dll
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\bin\Debug\net6.0\ConsoleHelloApp.pdb
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\obj\Debug\net6.0\ConsoleHelloApp.csproj.AssemblyReference.cache
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\obj\Debug\net6.0\ConsoleHelloApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\obj\Debug\net6.0\ConsoleHelloApp.AssemblyInfoInputs.cache
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\obj\Debug\net6.0\ConsoleHelloApp.AssemblyInfo.cs
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\obj\Debug\net6.0\ConsoleHelloApp.csproj.CoreCompileInputs.cache
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\obj\Debug\net6.0\ConsoleHelloApp.dll
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\obj\Debug\net6.0\refint\ConsoleHelloApp.dll
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\obj\Debug\net6.0\ConsoleHelloApp.pdb
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\obj\Debug\net6.0\ConsoleHelloApp.genruntimeconfig.cache
+C:\Users\crisv\OneDrive\Development\Coursera-CSharp-Unity\ConsoleHelloApp\ConsoleHelloApp\obj\Debug\net6.0\ref\ConsoleHelloApp.dll
