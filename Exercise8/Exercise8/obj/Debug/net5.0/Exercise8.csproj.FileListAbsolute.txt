@@ -1,0 +1,16 @@
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/bin/Debug/net5.0/Exercise8
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/bin/Debug/net5.0/Exercise8.deps.json
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/bin/Debug/net5.0/Exercise8.runtimeconfig.json
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/bin/Debug/net5.0/Exercise8.runtimeconfig.dev.json
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/bin/Debug/net5.0/Exercise8.dll
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/bin/Debug/net5.0/Exercise8.pdb
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/obj/Debug/net5.0/Exercise8.csproj.AssemblyReference.cache
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/obj/Debug/net5.0/Exercise8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/obj/Debug/net5.0/Exercise8.AssemblyInfoInputs.cache
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/obj/Debug/net5.0/Exercise8.AssemblyInfo.cs
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/obj/Debug/net5.0/Exercise8.csproj.CoreCompileInputs.cache
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/obj/Debug/net5.0/Exercise8.dll
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/obj/Debug/net5.0/refint/Exercise8.dll
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/obj/Debug/net5.0/Exercise8.pdb
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/obj/Debug/net5.0/Exercise8.genruntimeconfig.cache
+/Users/crisv/Documents/GitHub/Coursera-CSharp_Unity/Exercise8/Exercise8/obj/Debug/net5.0/ref/Exercise8.dll
